@@ -1,3 +1,0 @@
-/Users/cthornberry/projects/textRPG/build/CMakeFiles/textRPG.dir
-/Users/cthornberry/projects/textRPG/build/CMakeFiles/edit_cache.dir
-/Users/cthornberry/projects/textRPG/build/CMakeFiles/rebuild_cache.dir
