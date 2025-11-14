@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/textRPG.dir/main.cpp.o CMakeFiles/textRPG.dir/src/gameinit.cpp.o CMakeFiles/textRPG.dir/src/menus.cpp.o CMakeFiles/textRPG.dir/src/player.cpp.o -o textRPG
