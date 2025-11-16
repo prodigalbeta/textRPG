@@ -1,4 +1,7 @@
 #pragma once
+#include <string>
+
+
 
 namespace Parser{
   namespace Action {
@@ -8,15 +11,19 @@ namespace Parser{
       attack,
       look,
       examine,
-      quit
+      quit,
+      invalid
     };
+    Verb verbParse(const std::string &userGameInput);
+
   }
   namespace Direction {
     enum class Compass {
       north,
       south,
       east,
-      west
+      west,
+      invalid
     };
   }
 }
