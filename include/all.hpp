@@ -4,3 +4,5 @@
 #include "player.hpp"
 #include "parser.hpp"
 #include "interface.hpp"
+#include "entities.hpp"
+
