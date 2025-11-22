@@ -10,5 +10,7 @@ class Caravan {
     int speed;
     int hitpoints;
     bool playerOwned;
+  public:
+    Caravan(const std::string x, bool y);
 };
 
