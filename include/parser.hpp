@@ -1,8 +1,6 @@
 #pragma once
 #include <string>
 
-
-
 namespace Parser{
   namespace Action {
     enum class Verb {
@@ -15,7 +13,6 @@ namespace Parser{
       invalid
     };
     Verb verbParse(const std::string &userGameInput);
-
   }
   namespace Direction {
     enum class Compass {

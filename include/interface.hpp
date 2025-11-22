@@ -2,7 +2,7 @@
 #include <string>
 
 extern std::string userGameInput;
-bool isWorldMap;
-int roomID;
+extern bool isWorldMap;
+extern int roomID;
 
 void prompt ();
