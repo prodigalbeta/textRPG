@@ -10,6 +10,8 @@ private:
     int strength;
     int intelligence;
     int charisma;
+    int threat;
+    int endurance;
 public:
     Player(const std::string& playerName);
     std::string getName() const;
